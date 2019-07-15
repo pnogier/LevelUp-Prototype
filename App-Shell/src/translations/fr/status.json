@@ -1,0 +1,9 @@
+{
+  "label": "Statut/Statuts",
+  "placeholder": "Sélectionnez un ou plusieurs status",
+  "instructor": "Professeur",
+  "student": "Étudiant",
+  "pollster": "Sondeur",
+  "employee": "Employé",
+  "probe": "Sondé"
+}

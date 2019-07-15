@@ -1,0 +1,13 @@
+{
+  "defaultRoutes": {
+    "home": "Home",
+    "questionsQuizz": "Questions / Quizz"
+  },
+  "authentification": {
+    "signin": "Signin",
+    "signup": "Signup"
+  },
+  "connectedRoutes": {
+    "home": "Home"
+  }
+}

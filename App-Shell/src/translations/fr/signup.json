@@ -1,0 +1,11 @@
+{
+  "register": "Inscription",
+  "required": "Obligatoire",
+  "signin": "Je m'inscris !",
+  "back": "Retour à la page d'accueil",
+  "firstname": "Prénom",
+  "lastname": "Nom",
+  "email": "Adresse Email",
+  "password": "Mot de passe",
+  "confirmpassword": "Confirmation du mot de passe"
+}

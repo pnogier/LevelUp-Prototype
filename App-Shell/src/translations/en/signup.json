@@ -1,0 +1,11 @@
+{
+  "register": "Register",
+  "required": "Required",
+  "signin": "Sign Up !",
+  "firstname": "Frist Name",
+  "back": "Back to Home",
+  "lastname": "Last Name",
+  "email": "Email Adress",
+  "password": "Password",
+  "confirmpassword": "Password confirmation"
+}

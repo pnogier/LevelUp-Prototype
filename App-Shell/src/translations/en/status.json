@@ -1,0 +1,9 @@
+{
+  "label": "Status",
+  "placeholder": "Select one or more status",
+  "instructor": "Instructor",
+  "student": "Student",
+  "pollster": "Pollster",
+  "employee": "Employee",
+  "probe": "Probe"
+}
